@@ -68,7 +68,7 @@ function App() {
       <Archive
         archiveOption={archiveOption}
         onAddPost={handleAddPost}
-        setIsFakeDark={ }
+        setIsFakeDark={setIsFakeDark}
       />
       <Footer />
     </section>
